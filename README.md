@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there! Feel Free to explore my github page!
 
 <!--
 **inskeepjoey/inskeepjoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
